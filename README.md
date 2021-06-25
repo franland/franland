@@ -9,8 +9,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about Leno.
 - ⚡ Fun fact: I am the creator of leno.
 - 📫 How to reach me: You can email me at lenohelpbeta@gmail.com
+<div class="actions button-container">
+    <a href="#" class="button primary">Compose new</a>
 
+    <div class="button-group">
+        <a href="#" class="button primary">Archive</a>
+        <a href="#" class="button">Report spam</a>
+        <a href="#" class="button danger">Delete</a>
+    </div>
 
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
+    <div class="button-group minor-group">
+        <a href="#" class="button">Move to</a>
+        <a href="#" class="button">Labels</a>
+    </div>
+</div>
